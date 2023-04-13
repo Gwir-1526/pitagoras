@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Electrolize-Regular';
+    src: url(Fonts/Electrolize-Regular.ttf);
+}
+
+body {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.label{
+    font-size: 30px;
+}
+
+#aTextBox{
+    font-size: 30px;
+    font-family: 'Electrolize-Regular';
+    margin: 20px 0px 20px 0px;
+}
+
+#bTextBox {
+    font-size: 30px;
+    font-family: 'Electrolize-Regular';
+    margin: 20px 0px 20px 0px;
+}
+
+#submit {
+    font-size: 30px;
+    font-family: 'Electrolize-Regular';
+    margin: 20px 0px 20px 0px;
+}
